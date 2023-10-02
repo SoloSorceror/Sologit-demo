@@ -1,4 +1,4 @@
 # Sologit-demo
 My first Git Repository.
-<hr>
+<br>
 Author - SoloSorceror
